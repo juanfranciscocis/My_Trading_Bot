@@ -5,7 +5,7 @@ import image_recognition
 # lets use the get_labels function from image_recognition.py
 labels = image_recognition.get_results()
 
-print(labels)
+print(labels[0])
 
 
 
